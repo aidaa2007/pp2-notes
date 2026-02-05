@@ -1,2 +1,2 @@
-# pp2-notes
-lab works
+# practice1
+python-basics
